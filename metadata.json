@@ -1,0 +1,6 @@
+{
+  "name": "AI Commerce Automation SaaS",
+  "description": "Multi-tenant e-commerce AI customer support and sales automation connecting Facebook Messenger, Google Sheets, Google Drive, and Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
